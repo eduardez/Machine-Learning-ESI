@@ -27,6 +27,15 @@ A quick walk-through of different modeling techniques used:
 ### Next Steps
 
 
+
+### Contributing Members
+
+|Name     |  Slack Handle   | contact |
+|---------|-----------------|---------|
+|[Lucía Alfonso García](https://github.com/luciaagarcia)| @luciaagarcia       | Lucia.Alfonso@alu.uclm.es|
+|[Eduardo García Aparicio](https://github.com/eduardez) |     @eduardez    | Eduardo.Garcia14@alu.uclm.es
+|[Manuel Villalba Montalbán](https://github.com/manuvillalba-uclm) |     @manuvillalba-uclm    | Manuel.Villalba@alu.uclm.es |
+
 ### References
 - [DrivenData competition](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
 - [Introduction to Time Series Forecasting with Python](https://www.studocu.com/row/document/tsinghua-university/econometrics-2/other/introduction-to-time-series-forecasting-with-python-how-to-prepare-data-and-develop-models-to-predict-the-future-by-jason-brownlee-z-lib/8650098/view)
