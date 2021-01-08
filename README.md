@@ -10,19 +10,29 @@ The data has been obtained from [drivenData.org](https://www.drivendata.org/comp
 ### Modelling Approaches
 A quick walk-through of different modeling techniques used:
 
-1. Negative_Binomial_Regression
-2. Random_Forest
+1. Decision Tree
+2. K-Neihbors Regression
+3. Random Forest
+4. Ada Boost
+5. Stochastic gradient descent
+6. Facebook's Prophet
+7. Voting Ensemble
   
->In our case, the best model is....
+>In our case, the best model is Random Forest. The importance of Random Forest for us is not whether it was good or bad predicting cases of dengue in Iquitos or San Juan, but because it showed the importance of each feature we could be able to use those same features to train other models and get better results.
 
 ### Results from Experiments
 
 #### Feature Engineering
 
+For the selection of characteristics we have had to make a temporary shift between the different characteristics and the total cases since, for example, the rain that fell 1 month ago is what causes the birth of dengue mosquitoes now.
+
 #### Feature Selection
 
 
 #### Hyperparameter Tuning
+
+------------------------------------
+For more information on the development of this project, do not hesitate to consult the attached PDF in this repository.
 
 ### Next Steps
 
