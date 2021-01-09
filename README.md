@@ -44,7 +44,7 @@ For more information on the development of this project, do not hesitate to cons
 
 ### Contributing Members
 
-|Name     |  Slack Handle   | contact |
+|Name     |  Github User   | Contact |
 |---------|-----------------|---------|
 |[Lucía Alfonso García](https://github.com/luciaagarcia)| @luciaagarcia       | Lucia.Alfonso@alu.uclm.es|
 |[Eduardo García Aparicio](https://github.com/eduardez) |     @eduardez    | Eduardo.Garcia14@alu.uclm.es
