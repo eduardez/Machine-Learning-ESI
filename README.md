@@ -1,7 +1,9 @@
 # Deng AI | Machine-Learning-ESI
 ## Predicting the spread of Dengue from climate data
 
-### Objetive
+<img align='right' src='https://raw.githubusercontent.com/eduardez/Machine-Learning-ESI/master/Mosquito.png?token=AGI3DY7E2ZXWBKONH345XRDAAMYLO' width='350"'>
+
+### Objetive 
 Dengue has emerged as one of the major epidemics in current times. There is some evidence available about the correlation of this disease with climate. If we are able to model the number of cases reported historically in a place using the climate data for that place over the same period, It shall increase our accuracy in predicting the spread of this disease. Which in turn shall help not only in being better prepared in our efforts at the individual level but also at the government level for prevention as well as treatment measures.
 
 ### Data
@@ -27,9 +29,11 @@ A quick walk-through of different modeling techniques used:
 For the selection of characteristics we have had to make a temporary shift between the different characteristics and the total cases since, for example, the rain that fell 1 month ago is what causes the birth of dengue mosquitoes now.
 
 #### Feature Selection
-
+<p align='center'><img  src='https://raw.githubusercontent.com/eduardez/Machine-Learning-ESI/master/modelo.png?token=AGI3DYZZHBTSPUHXL2MSCSTAAM2CC' width='650"'></p>
 
 #### Hyperparameter Tuning
+
+
 
 ------------------------------------
 For more information on the development of this project, do not hesitate to consult the attached PDF in this repository.
