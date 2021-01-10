@@ -19,6 +19,7 @@ A quick walk-through of different modeling techniques used:
 5. Stochastic gradient descent
 6. Facebook's Prophet
 7. Voting Ensemble
+8. LSTM
   
 >In our case, the best model is Random Forest. The importance of Random Forest for us is not whether it was good or bad predicting cases of dengue in Iquitos or San Juan, but because it showed the importance of each feature we could be able to use those same features to train other models and get better results.
 
@@ -31,16 +32,14 @@ For the selection of characteristics we have had to make a temporary shift betwe
 #### Feature Selection
 <p align='center'><img  src='https://raw.githubusercontent.com/eduardez/Machine-Learning-ESI/master/img/modelo.png?token=AHJ5UME6R7UT2HKEZXI67ULAANW2A' width='650"'></p>
 
-#### Hyperparameter Tuning
-
-
 
 ------------------------------------
 For more information on the development of this project, do not hesitate to consult the attached PDF in this repository.
 
 ### Next Steps
-
-
+- Better exploit feature shifting.
+- Use one model to predict just the seasonality and other one to predict the error of the previous model.
+- Correct the LSTM, as we believe it can give better results than we have.
 
 ### Contributing Members
 
