@@ -34,7 +34,7 @@ For the selection of characteristics we have had to make a temporary shift betwe
 
 
 ------------------------------------
-For more information on the development of this project, do not hesitate to consult the attached PDF in this repository.
+For more information on the development of this project, do not hesitate to consult the [attached PDF](https://github.com/eduardez/Machine-Learning-ESI/blob/master/img/Second_Milestone___Machine_Learning.pdf) in this repository.
 
 ### Next Steps
 - Better exploit feature shifting.
