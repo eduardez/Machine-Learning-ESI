@@ -13,7 +13,7 @@ The data has been obtained from [drivenData.org](https://www.drivendata.org/comp
 A quick walk-through of different modeling techniques used:
 
 1. Decision Tree
-2. K-Neihbors Regression
+2. K-Neighbors Regression
 3. Random Forest
 4. Ada Boost
 5. Stochastic gradient descent
